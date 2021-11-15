@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Edwin-francis/React-Portfolio/static/js/main.39e73843.chunk.js",
+    "main.js.map": "/Edwin-francis/React-Portfolio/static/js/main.39e73843.chunk.js.map",
+    "runtime-main.js": "/Edwin-francis/React-Portfolio/static/js/runtime-main.07fe6607.js",
+    "runtime-main.js.map": "/Edwin-francis/React-Portfolio/static/js/runtime-main.07fe6607.js.map",
+    "static/js/2.fef71dff.chunk.js": "/Edwin-francis/React-Portfolio/static/js/2.fef71dff.chunk.js",
+    "static/js/2.fef71dff.chunk.js.map": "/Edwin-francis/React-Portfolio/static/js/2.fef71dff.chunk.js.map",
+    "index.html": "/Edwin-francis/React-Portfolio/index.html",
+    "static/js/2.fef71dff.chunk.js.LICENSE.txt": "/Edwin-francis/React-Portfolio/static/js/2.fef71dff.chunk.js.LICENSE.txt",
+    "static/media/avatar.cd082672.jpg": "/Edwin-francis/React-Portfolio/static/media/avatar.cd082672.jpg",
+    "static/media/design.b0dea6a3.svg": "/Edwin-francis/React-Portfolio/static/media/design.b0dea6a3.svg",
+    "static/media/game-dev.7e1a6c88.svg": "/Edwin-francis/React-Portfolio/static/media/game-dev.7e1a6c88.svg",
+    "static/media/intelligence.191362ff.svg": "/Edwin-francis/React-Portfolio/static/media/intelligence.191362ff.svg",
+    "static/media/resume.cd082672.jpg": "/Edwin-francis/React-Portfolio/static/media/resume.cd082672.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07fe6607.js",
+    "static/js/2.fef71dff.chunk.js",
+    "static/js/main.39e73843.chunk.js"
+  ]
+}
